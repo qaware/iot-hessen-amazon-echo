@@ -1,0 +1,10 @@
+# Enable TLS on port 8443
+server.port: 8443
+server.ssl.key-store: classpath:keystore.jks
+server.ssl.key-store-password: ""
+server.ssl.key-store-type: jks
+server.ssl.key-alias: ec2-35-157-57-247.eu-central-1.compute.amazonaws.com
+
+# Configure logging
+logging.level:
+  de.qaware.alexa.warehouse: TRACE
