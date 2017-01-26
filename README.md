@@ -1,6 +1,8 @@
 # iot-hessen-amazon-echo
 
-SourceCode for the talk at IoT Hessen 2017: Amazon Echo 
+SourceCode and slides for the talk at IoT Hessen 2017: Amazon Echo.
+
+[Download the slides](https://raw.githubusercontent.com/qaware/iot-hessen-amazon-echo/master/slides.pdf)
 
 ## Development
 
@@ -8,7 +10,7 @@ SourceCode for the talk at IoT Hessen 2017: Amazon Echo
 
 1. JDK 8
 
-### Running 
+### Running
 
 1. Run `mvnw spring-boot:run`
 
